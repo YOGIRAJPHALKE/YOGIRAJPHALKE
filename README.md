@@ -27,8 +27,9 @@
 ---
 
 ## 📫 Contact
+💼 GitHub: https://github.com/YOGIRAJPHALKE
 
-* 💼 GitHub: https://github.com/your-username
+📧 Email: yogirajphalake2001@gmail.com
 
 ---
 
