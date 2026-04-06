@@ -11,6 +11,13 @@
 * ⚙️ Focused on gameplay systems & physics
 
 
+## 📫 Contact
+💼 GitHub: https://github.com/YOGIRAJPHALKE
+
+📧 Email: yogirajphalake2001@gmail.com
+
+📄 Know about my experiences: [www.linkedin.com/in/yogirajphalke](www.linkedin.com/in/yogirajphalke)
+
 
 ## 🛠️ Tech Stack
 
@@ -31,27 +38,7 @@
 
 
 
-
-## 🚀 Projects
-
-* 🎮 Game Projects (Unity)
-* 🕶️ XR Experiences
-  👉 More coming soon...
-
-
-## 📫 Contact
-💼 GitHub: https://github.com/YOGIRAJPHALKE
-
-📧 Email: yogirajphalake2001@gmail.com
-
-📄 Know about my experiences: [www.linkedin.com/in/yogirajphalke](www.linkedin.com/in/yogirajphalke)
-
-
 ⭐ *Check out my projects and follow my journey!*
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogirajphalke&show_icons=true&locale=en&layout=compact" alt="yogirajphalke" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogirajphalke&show_icons=true&locale=en" alt="yogirajphalke" /></p>
 
 
 <!--
